@@ -21,15 +21,5 @@ Lenovo laptop of CPU (2 cores, 4 threads at 2GHz)
 processor Intel Core i3-6006U and 8GB RAM
 ## Programming Languages
 C++ Python 3.7.0
-## Results
-<figure>
-<em>CAMSHIFT Result</em>
-<img src="https://user-images.githubusercontent.com/55394276/199112694-2167ebed-a55f-4c76-b541-c8b18ccbac16.png" width=300, height=300, align="left">
-</figure>
-
-<em>CAMSHIFT Result</em>
-<img src="https://user-images.githubusercontent.com/55394276/199112701-9181c03d-a72a-45e0-a646-bc4b7ed4dace.png" width=300, height=300, align="left">
- 
-<em>CSRT Result</em>
-<img src="https://user-images.githubusercontent.com/55394276/199112704-c8b36b68-8944-4436-9168-0579712f58bc.png" width=300, height=300, align="left">
-
+## Datset
+It is recorded at TUC which cannot be published online. 
